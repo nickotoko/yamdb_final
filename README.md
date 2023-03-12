@@ -14,7 +14,8 @@
 - Настройте статику проекта командой: ``` docker-compose exec web python manage.py collectstatic --no-input ```
 - В случае успешного выполнения инструкций, проект будет доступен по ссылке ``` http://localhost ```
 ### Автор:
-Токарев Николай
+Токарев Николай  
 nickotoko@yandex.ru
 
+Ссылка на работающий проект: ``` http://51.250.80.138/ ```
 ![example workflow](https://github.com/nickotoko/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
